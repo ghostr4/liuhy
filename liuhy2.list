@@ -4,7 +4,7 @@
 # UPDATED: 2024-07-03 16:16:11
 # DOMAIN: 6
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 27
+# DOMAIN-SUFFIX: 28
 # IP-CIDR: 2
 # PROCESS-NAME: 1
 # TOTAL: 30
@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,czys.pro
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,v.ssrdog222.com
+DOMAIN-SUFFIX,dog.ssrdog.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotify-everywhere.com
