@@ -4,7 +4,7 @@
 # UPDATED: 2024-07-03 16:16:11
 # DOMAIN: 6
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 26
+# DOMAIN-SUFFIX: 27
 # IP-CIDR: 2
 # PROCESS-NAME: 1
 # TOTAL: 30
@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,duboku.tv
 DOMAIN-SUFFIX,czys.pro
 DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,scdn.co
+DOMAIN-SUFFIX,v.ssrdog222.com
 DOMAIN-SUFFIX,spoti.fi
 DOMAIN-SUFFIX,spotify-com.akamaized.net
 DOMAIN-SUFFIX,spotify-everywhere.com
