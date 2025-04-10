@@ -33,6 +33,7 @@ ruleset=🎬 HBO MAX,https://github.geekery.cn/raw.githubusercontent.com/blackma
 ;ruleset=👌 虚拟币,https://github.geekery.cn/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/xnb.list
 ;ruleset=⏱️ 检测,https://github.geekery.cn/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Check.list
 ruleset=🌍 国外,https://github.geekery.cn/raw.githubusercontent.com/liandu2024/clash/refs/heads/main/list/Proxy.list
+ruleset=🌍 国外,https://raw.githubusercontent.com/ghostr4/liuhy/refs/heads/main/liuhy2.list
 ruleset=🌍 国外,https://github.geekery.cn/raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Global/Global.list
 ruleset=➡️ 国内,[]FINAL
 
