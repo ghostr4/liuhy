@@ -4,7 +4,7 @@
 # UPDATED: 2024-07-03 16:16:11
 # DOMAIN: 6
 # DOMAIN-KEYWORD: 2
-# DOMAIN-SUFFIX: 28
+# DOMAIN-SUFFIX: 29
 # IP-CIDR: 2
 # PROCESS-NAME: 1
 # TOTAL: 30
@@ -17,6 +17,7 @@ DOMAIN,spotify.map.fastlylb.net
 DOMAIN-SUFFIX,audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,byspotify.com
 DOMAIN-SUFFIX,heads4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,cnys.tv
 DOMAIN-SUFFIX,cnys1.tv
 DOMAIN-SUFFIX,cnys2.tv
